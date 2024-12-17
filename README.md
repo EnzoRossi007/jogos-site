@@ -8,7 +8,7 @@ Integrantes<br>
 Enzo Ferrari Rossi RA:24020052<br>
 Links importantes<br>
 Github: https://github.com/EnzoRossi007/jogos-site <br>
-Site: https://enzorossi007.github.io/NovaGames/ <br>
+Site:
 Youtube: https://youtu.be/_GDH6NyebDo <br>
 Telas<br>
 ![image](https://github.com/user-attachments/assets/b3b3bd52-dc16-42ac-884e-83d98324eecb)<br>
